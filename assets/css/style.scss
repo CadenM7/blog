@@ -5,3 +5,26 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+  .site-header {
+    color:black;
+    background-image: url(https://media.istockphoto.com/id/484096068/photo/wooden-texture-background.webp?b=1&s=170667a&w=0&k=20&c=RWLEm-1NkqPzEgrX0zRid7WHtclBQBmI4RQZlouc02g=);
+  }
+
+  title{
+    color: black;
+  }
+
+  body{
+    background-color:azure;
+  }
+
+  footer{
+    color:black;
+    background-image: url(https://media.istockphoto.com/id/484096068/photo/wooden-texture-background.webp?b=1&s=170667a&w=0&k=20&c=RWLEm-1NkqPzEgrX0zRid7WHtclBQBmI4RQZlouc02g=);
+  }
+
+  .footer-col{
+    color: black;
+  }
+
