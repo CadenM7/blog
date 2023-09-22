@@ -10,11 +10,14 @@ description: >
 
 # Build settings
 
-theme: minima
+remote_theme: chesterhow/tale
+
+permalink:    /:year-:month-:day/:title
+paginate:     5
 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-remote-theme
 
 # Theme-specific settings
 
