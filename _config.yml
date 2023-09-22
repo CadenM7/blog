@@ -9,15 +9,11 @@ description: >
   This is a blog about CSCI340 that is going to be filled with assignments, comments, and more.
 
 # Build settings
-
-remote_theme: chesterhow/tale
-
-permalink:    /:year-:month-:day/:title
-paginate:     5
+theme: minima
 
 plugins:
-  - jekyll-paginate
-  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Theme-specific settings
 
