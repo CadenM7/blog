@@ -5,9 +5,9 @@ author: Caden McCarty
 categories: post
 ---
 
-![FlowChart](C:\Users\caden\OneDrive\Databases\blog\FlowChart.png)
+![FlowChart](C:\Users\caden\OneDrive\Databases\blog\Flowchart.png)
 [FlowChart]
 
-![Vertabelo](C:\Users\caden\OneDrive\Databases\blog\FlowChart.png)
+![Vertabelo]()
 [Vertabelo]
 
