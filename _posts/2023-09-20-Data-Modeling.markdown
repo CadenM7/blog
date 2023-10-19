@@ -9,9 +9,13 @@ categories: post
 
 - I had some complications when working on the ER diagram and schema. When it came to finding the different types of entities and what their attributes in the Schema. I also had a hard time with the relationship between the entities in the ER Diagram.
 
+
+ER Diagram
 ![FlowChart](/assets/img/Flowchart.png)
 
 
+Schema
 ![Vertabelo](/assets/img/Vertabelo.png)
+
 
 
