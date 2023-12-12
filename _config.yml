@@ -9,6 +9,7 @@ description: >
   This is a blog about CSCI340 that is going to be filled with assignments, comments, and more.
 
 # Build settings
+
 theme: minima
 
 plugins:
